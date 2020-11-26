@@ -11,7 +11,6 @@
         <TextBox x:Name="tBox_Cos" HorizontalAlignment="Left" Height="23" Margin="349,163,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" TextChanged="Cos_TextChanged"/>
         <Label x:Name="lb_answer" Content="Ответ:" HorizontalAlignment="Left" Margin="387,226,0,0" VerticalAlignment="Top" RenderTransformOrigin="-0.947,0.115" Width="138"/>
         <Button x:Name="Bt_Clear" Content="Очистка" HorizontalAlignment="Left" Margin="188,202,0,0" VerticalAlignment="Top" Width="75" Click="Button_Click2"/>
-        <Label Content="Label" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="188,234,0,0" Height="28" Width="75"/>
         <Label Content="Калькулятор:&#xD;&#xA;нахождение косунуса угла" HorizontalAlignment="Left" Margin="349,70,0,0" VerticalAlignment="Top" Width="160"/>
     </Grid>
 </Window>
